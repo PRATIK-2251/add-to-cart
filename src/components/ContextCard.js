@@ -28,7 +28,7 @@ const ContextCard = () => {
       </>
     );
   }
-  
+
   return (
     <>
       <header>
