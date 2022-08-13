@@ -45,7 +45,7 @@ const ContextCard = () => {
         <h1>shopping cart</h1>
         <p className="total-items">
           you have <span className="total-items-count">{totalItem} </span>
-          times in shopping cart
+          time in shopping cart
         </p>
         <div className="cart-items">
           <div className="cart-items-container">
