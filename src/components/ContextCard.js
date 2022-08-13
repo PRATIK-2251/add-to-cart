@@ -15,7 +15,7 @@ const ContextCard = () => {
           </div>
           <div className="cart-icon">
             <img src="./images/cart.png" alt="" />
-            <p>{totalItem}</p>
+            <p>0</p>
           </div>
         </header>
         <section className="main-cart-section">
